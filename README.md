@@ -2,7 +2,7 @@
 
 ### Description 
 
-* 進行模型的訓練
+* 進行模型的訓練:
   * 包含 similarity level, prediction level, combine level
   * ACCF model 的參數實驗，包含: learning rate, epoch, batch size, unit, layers
 * 實驗結果圖片繪製
