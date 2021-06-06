@@ -5,11 +5,11 @@
 
 
 ### similarity level model
- <img src="image/l1.png" alt="Cover" width="80%"/>
+ <img src="image/l1.img" alt="Cover" width="80%"/>
 ### prediction level model
- <img src="image/l2.png" alt="Cover" width="80%"/>
+ <img src="image/l2.img" alt="Cover" width="80%"/>
 ### combine level model
- <img src="image/l3.png" alt="Cover" width="80%"/>
+ <img src="image/l3.img" alt="Cover" width="80%"/>
 ### Description 
 
 * 進行模型的訓練:
