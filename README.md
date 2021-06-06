@@ -2,10 +2,15 @@
 
 ### Description 
 
-- 進行模型的訓練與繪製實驗結果圖片
+* 進行模型的訓練
+  * 包含 similarity level, prediction level, combine level
+  * ACCF model 的參數實驗，包含: learning rate, epoch, batch size, unit, layers
+* 實驗結果圖片繪製
+* 評價指標: RMSE, MSE, MAE
+* baseline 比較: UCF, itemKNN, SVD, ACF
 
 
-### model
+### model introduction
 
 - MLP: 單純neural network
 - A_MLP: 使用attention_mechanism
