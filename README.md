@@ -3,6 +3,13 @@
 ## Model overview
 ![image](image/overview.png)
 
+* similarity level model
+ * ![image](image/l1.jpg)
+* prediction level model
+ * ![image](image/l2.jpg)
+* combine level model
+ * ![image](image/l3.jpg)
+
 ### Description 
 
 * 進行模型的訓練:
@@ -13,10 +20,6 @@
 * baseline 比較: UCF, itemKNN, SVD, ACF
 
 
-### Model introduction
-- MLP: 單純neural network
-- A_MLP: 使用attention_mechanism
-- C_MLP: 結合user-based CF 與 item-based CF
 
 
 ### Tools 
