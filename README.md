@@ -10,7 +10,7 @@
 * baseline 比較: UCF, itemKNN, SVD, ACF
 
 
-### model introduction
+### Model introduction
 
 - MLP: 單純neural network
 - A_MLP: 使用attention_mechanism
