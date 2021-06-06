@@ -1,17 +1,15 @@
 # ACCF model
 
 ## Model overview
-![image](image/overview.png)
-<img src="image/overview.png" alt="Cover" width="%"/>
+<img src="image/overview.png" alt="Cover" width="90%"/>
 
 
 ### similarity level model
- ![image](image/l1.jpg)
+ <img src="image/l1.png" alt="Cover" width="80%"/>
 ### prediction level model
- ![image](image/l2.jpg)
+ <img src="image/l2.png" alt="Cover" width="80%"/>
 ### combine level model
- ![image](image/l3.jpg)
-
+ <img src="image/l3.png" alt="Cover" width="80%"/>
 ### Description 
 
 * 進行模型的訓練:
