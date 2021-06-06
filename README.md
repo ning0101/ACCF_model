@@ -1,7 +1,7 @@
 # ACCF model
 
 ## Model overview
-![image](image/overview.png)
+![image](image/overview.png){:height="50%" width="50%"}
 
 ### similarity level model
  ![image](image/l1.jpg)
