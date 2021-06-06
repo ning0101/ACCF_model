@@ -3,12 +3,12 @@
 ## Model overview
 ![image](image/overview.png)
 
-* similarity level model
- * ![image](image/l1.jpg)
-* prediction level model
- * ![image](image/l2.jpg)
-* combine level model
- * ![image](image/l3.jpg)
+### similarity level model
+ ![image](image/l1.jpg)
+### prediction level model
+ ![image](image/l2.jpg)
+### combine level model
+ ![image](image/l3.jpg)
 
 ### Description 
 
