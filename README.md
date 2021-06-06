@@ -2,7 +2,7 @@
 
 ## Model overview
 ![image](image/overview.png)
-<img src="image/overview.png" alt="Cover" width="50%"/>
+<img src="image/overview.png" alt="Cover" width="%"/>
 
 
 ### similarity level model
