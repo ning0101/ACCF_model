@@ -1,5 +1,7 @@
 # ACCF model
 
+ACCF model希望可以解決傳統CF的cold start 與 data sparisity 問題，透過將CF memory-based 中的 user-based CF 與 item-based CF 以 attention mechanism結合，使兩個模型間可以互相參照與互補。
+
 ## Model overview
 <img src="image/overview.png" alt="Cover" width="70%"/>
 
