@@ -6,7 +6,7 @@
 
 ### Level1: similarity level model
 
- <img src="image/l1.jpg" alt="C" width="60%"/>
+ <img src="image/l1.jpg" alt="C" width="50%"/>
  
  1. 將rating matrix透過三種不同similarity的計算方式得到similarity matrix。
  2. 將similarity matrix分別input到neural network 與 attention mechanism中，得出所預測的下一個月的similarity matrix。
