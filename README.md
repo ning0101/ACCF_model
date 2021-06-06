@@ -5,7 +5,7 @@
 
 #
 
-### Level1: similarity level model
+### Level 1: similarity level model
 
  <img src="image/l1.jpg" alt="C" width="50%"/>
  
@@ -15,7 +15,7 @@
 
 
  
-### prediction level model
+### Level 2: prediction level model
  <img src="image/l2.jpg" alt="Co" width="60%"/>
  
 1. 將rating matrix透過三種不同similarity的計算方式得到similarity matrix。
@@ -25,7 +25,7 @@
 
 
 
-### combine level model
+### Level 3: combine level model
  <img src="image/l3.jpg" alt="Cov" width="60%"/>
  
 1. 在基於prediction level下，將user-based CF 與 item-based CF 的模型透過attention mechanism結合，用以預測下一個月的prediction rating matrix。
