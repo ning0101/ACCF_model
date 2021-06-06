@@ -16,9 +16,18 @@
  
 ### prediction level model
  <img src="image/l2.jpg" alt="Co" width="60%"/>
+ 
+1. 將rating matrix透過三種不同similarity的計算方式得到similarity matrix。
+2. 透過similarity matrix計算得到prediction rating matrix。
+3. 將prediction rating matrix分別input到neural network 與 attention mechanism中，得出所預測的下一個月的prediction rating matrix。
+4. 將預測的prediction rating matrix 與真實的rating matrix 做比較。
+
 
 ### combine level model
  <img src="image/l3.jpg" alt="Cov" width="60%"/>
+ 
+1. 在基於prediction level下，將user-based CF 與 item-based CF 的模型透過attention mechanism結合，用以預測下一個月的prediction rating matrix。
+2. 將 prediction rating matrix 與真實的rating matrix 做比較。
 
 
 
