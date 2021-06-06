@@ -1,5 +1,8 @@
 # ACCF model
 
+## Model overview
+![image](image/overview.png)
+
 ### Description 
 
 * 進行模型的訓練:
@@ -11,7 +14,6 @@
 
 
 ### Model introduction
-
 - MLP: 單純neural network
 - A_MLP: 使用attention_mechanism
 - C_MLP: 結合user-based CF 與 item-based CF
